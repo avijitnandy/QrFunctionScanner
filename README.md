@@ -1,3 +1,3 @@
 # QrFunctionScanner
 
-<img href="https://github.com/avijitnandy/QrFunctionScanner/blob/master/demo.gif"/>
+<img src="https://github.com/avijitnandy/QrFunctionScanner/blob/master/demo.gif"/>
